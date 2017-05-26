@@ -10,6 +10,7 @@ body {
   margin: auto;
   clear: both;
   font-family: Quattrocento Sans;
+  background-image: linear-gradient(to bottom, #edf0f7, #D6EEE6);
 }
 
 /*///////////////// HEADER /////////////////*/
@@ -17,7 +18,7 @@ body {
 #header {
   width: 100%;
   height: 150px;
-  background-image: linear-gradient(to right, #b9c4c3, #909e69);
+  background-color: #a2af90;
   position: relative;
 }
 
@@ -90,8 +91,8 @@ body {
   margin: auto;
   margin-top: 40%;
   border: 0;
-  height: 2px;
-  width: 60%;
+  height: 1px;
+  width: 65%;
   display: block;
   background-image: linear-gradient(to right, #b5c4c7, #36392a);
   margin-bottom: 100px;
@@ -107,11 +108,12 @@ margin: auto;
 .form {
   float: left;
   width: 370px;
+  background-color: white;
 }
 
 .description {
   float: right;
-  width: 400px;
+  width: 370px;
 }
 
 .description h2:before {
