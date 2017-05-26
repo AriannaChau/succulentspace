@@ -1,0 +1,34 @@
+*,
+*::before,
+*::after {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+h1 {
+  margin-left: 20px;
+  font-family: Dancing Script;
+  font-size: 60px;
+}
+
+.imageAndCaption {
+  padding-top: 30px;
+  margin: 0;
+  position: relative;
+}
+
+.image {
+  position: absolute;
+}
+
+#header {
+  width: 100%;
+}
+
+#caption {
+  position: absolute;
+  top: 10%;
+  left: 85%;
+  width: 110px;
+}
