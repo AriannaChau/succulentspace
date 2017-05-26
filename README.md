@@ -16,11 +16,11 @@ This is a project made to practice positioning, floats, and pseudo elements/clas
 
 ## Link to site
 
-
+ariannachau.github.io/succulentspace/
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+If you need to contact me for questions or concerns, my email is ariannachau@yahoo.com
 
 ## Technologies Used
 
