@@ -33,14 +33,14 @@ body {
 /*///////////////// MAIN IMAGE AND CAPTION /////////////////*/
 
 #full {
-  width: 850px;
+  width: 900px;
   margin: auto;
   padding-top: 20px;
 }
 
 #main {
   float: left;
-  width: 450px;
+  width: 460px;
   padding: 10px;
   position: relative;
 }
@@ -75,8 +75,8 @@ body {
 }
 
 #gallery img {
-  height: 90px;
-  width: 90px;
+  height: 100px;
+  width: 100px;
   padding: 2px;
   transition: all .7s ease-in-out;
 
@@ -112,7 +112,10 @@ margin: auto;
 .description {
   float: right;
   width: 400px;
-  border: 1px solid black;
+}
+
+.description h2:before {
+  content: "\274B";
 }
 
 /*///////////////// FORM /////////////////*/
@@ -213,10 +216,4 @@ input {
   transition:.9s;
   border: 1px solid black;
   color: black;
-}
-
-/*///////////////// DESCRIPTION /////////////////*/
-
-.description h2:before {
-  content: "\274B";
 }
